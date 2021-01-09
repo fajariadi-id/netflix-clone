@@ -1,0 +1,38 @@
+.banner {
+  min-height: 85vh;
+  display: flex;
+  align-items: center;
+}
+
+.banner-content {
+  width: 50%;
+}
+
+.banner .title {
+  font-size: 48px;
+}
+
+.banner .desc {
+  margin: 15px 0 30px;
+}
+
+.banner-icon {
+  margin-right: 10px;
+}
+
+.btn.play {
+  margin-right: 10px;
+}
+
+.btn.play:hover {
+  background-color: #f6f6f4cc;
+}
+
+.btn.info {
+  background-color: #eaeaea33;
+  color: var(--clr-white);
+}
+
+.btn.info:hover {
+  background-color: #eaeaea1a;
+}

@@ -1,0 +1,51 @@
+footer .container {
+  padding: 0 100px 20px;
+}
+
+.sosmed {
+  margin-bottom: 15px;
+}
+
+.sosmed li {
+  font-size: 38px;
+  margin-right: 30px;
+  cursor: pointer;
+  color: #777;
+}
+
+.footer-links {
+  font-size: 14px;
+}
+
+.footer-links a {
+  display: inline-block;
+  color: #777;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.footer-links a:hover {
+  border-bottom: 1px solid #777;
+  margin-bottom: 14px;
+}
+
+.footer-btn {
+  display: inline-block;
+  background-color: transparent;
+  border: 1px solid #777;
+  color: #777;
+  font-size: 14px;
+  font-weight: normal;
+  border-radius: 0;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.footer-btn:hover {
+  color: var(--clr-white);
+}
+
+.copyright {
+  font-size: 12px;
+  color: #777;
+}
