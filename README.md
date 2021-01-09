@@ -1,9 +1,9 @@
 # Netflix Clone Project
 
-- Fetching API from TMDB
-- Using axios
-- Slider logic
-- Hover logic
-- Using react-modal-video
-- Using movie-trailer
-  ...etc
+- [x] Fetching API from TMDB
+- [x] Using axios
+- [x] Slider logic
+- [x] Hover logic
+- [x] Using react-modal-video
+- [x] Using movie-trailer
+- [ ] Responsive
