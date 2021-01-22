@@ -6,7 +6,7 @@ import ModalVideo from 'react-modal-video';
 import '../../utils/assets/img/x-square.svg';
 import movieTrailer from 'movie-trailer';
 
-const imgUrl = 'https://image.tmdb.org/t/p/original';
+const imgUrl = 'https://image.tmdb.org/t/p/w300';
 
 const Row = ({ rowTitle, fetchUrl, isLarge }) => {
   const [movies, setMovies] = useState([]);
